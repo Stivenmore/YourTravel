@@ -1,0 +1,30 @@
+{
+    "objects": {
+        "places": [
+            {
+                "id": "1",
+                "name": "Bahía Solano",
+                "opinion": "643",
+                "img": "assets/img/baia.jpg"
+            },
+            {
+                "id": "2",
+                "name": "Capurganá",
+                "opinion": "541",
+                "img": "assets/img/capurgana.png"
+            },
+            {
+                "id": "3",
+                "name": "Playa de El Valle",
+                "opinion": "432",
+                "img": "assets/img/posada.jpg"
+            },
+            {
+                "id": "4",
+                "name": "Parque Nacional Natural Utría",
+                "opinion": 541,
+                "icon": "assets/img/mountain.svg"
+            }
+        ]
+    }
+}

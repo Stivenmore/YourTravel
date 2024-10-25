@@ -1,0 +1,31 @@
+{
+    "objects": {
+        "taps": [
+            {
+                "id": "1",
+                "name": "Places",
+                "icon": "assets/img/province.svg"
+            },
+            {
+                "id": "2",
+                "name": "Beach",
+                "icon": "assets/img/beach.svg"
+            },
+            {
+                "id": "3",
+                "name": "Adventure",
+                "icon": "assets/img/adventure.svg"
+            },
+            {
+                "id": "4",
+                "name": "Mountain",
+                "icon": "assets/img/mountain.svg"
+            },
+            {
+                "id": "5",
+                "name": "Snow",
+                "icon": "assets/img/snow.svg"
+            }
+        ]
+    }
+}

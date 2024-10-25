@@ -1,0 +1,3 @@
+
+
+typedef FutureBool = Future<bool>;
